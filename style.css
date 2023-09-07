@@ -1,0 +1,10 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    background-color: white;
+  }
+td{
+    border: 1px solid black;
+    height: 80px;
+    width: 80px;
+}
